@@ -19,7 +19,6 @@ asset Reward identified by rewardsId{
 	o String description
 	o Double pointsAmount
 	o String startDate
-    o String expiryDate
 	o Integer quantity
 	--> Merchant merchant
 }
